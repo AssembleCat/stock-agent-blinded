@@ -1,5 +1,7 @@
 # 금융전문 AI Agent - Allred 팀 설계문서
 
+[Destiny-Stock-URL](http://destiny-stock-bucket.s3-website.kr.object.ncloudstorage.com/)
+
 ## 목차
 
 - [API](#api-endpoint)
